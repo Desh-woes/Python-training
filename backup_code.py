@@ -2,6 +2,7 @@ import os
 import time
 
 # 1. The files and directories to be backed up are specified in a list.
+#The problem is on line 6. I cannot use this directory. But I can save from my main dir
 source = [r'C:\Users\ALU STUDENT\Desktop\Python-training']
 target_dir = 'D:\Backup'
 
